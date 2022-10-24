@@ -12,6 +12,7 @@ dan Riko dan panggil method setter dan getter
 Program ini dibuat dengan menggunakan:
 - [Java](https://www.java.com/) - Java adalah bahasa pemrograman yang dapat dijalankan di berbagai komputer termasuk telepon genggam.
 - [Notepad++](https://notepad-plus-plus.org/) - Notepad++ is a free (as in “free speech” and also as in “free beer”) source code editor and Notepad replacement that supports several languages.
+- [CMD] Command Prompt (cmd.exe) adalah antarmuka baris perintah (baris perintah penerjemah) yang dieksekusi ke sistem operasi dan yang disediakan oleh Microsoft
 
 ## Structure
 ```
