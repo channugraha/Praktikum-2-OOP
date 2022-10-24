@@ -31,7 +31,7 @@ ketik local disk path untuk mengakses direkotri
 ```
 E:
 ```
-lalu compile kedua file yaitu Person.java dan PersonBaru.java
+lalu compile kedua file yaitu Person.java dan PersonAksi.java
 ```
 javac Person.java
 javac PersonAksi.java
@@ -40,3 +40,11 @@ setelah itu run program PersonBaru
 ```
 java PersonAksi
 ```
+## Program Result
+![Screenshot Praktikum2](https://user-images.githubusercontent.com/116129101/197527278-729e0bd2-ce29-466f-a803-ad0b5d541163.png)
+
+
+## Credit
+> Chandra Nugraha Ramadhan
+> 312110008
+> TI.21.C2
