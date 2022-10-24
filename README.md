@@ -23,9 +23,9 @@ Program ini dibuat dengan menggunakan:
 ```
 
 ## Instalation
-Buka CMD, lalu ketik
+Buka CMD, lalu ketik cd dan lokasi path penyimpanan file
 ```
-cd (file path location) example: "cd E:\OOP\Latihan1_OOP"
+cd (file path location) example: "cd E:\OOP\Praktikum2"
 ```
 ketik local disk path untuk mengakses direkotri
 ```
@@ -34,9 +34,9 @@ E:
 lalu compile kedua file yaitu Person.java dan PersonBaru.java
 ```
 javac Person.java
-javac PersonBaru.java
+javac PersonAksi.java
 ```
 setelah itu run program PersonBaru
 ```
-java PersonBaru
+java PersonAksi
 ```
